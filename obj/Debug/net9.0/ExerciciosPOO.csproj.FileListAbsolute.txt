@@ -1,0 +1,15 @@
+C:\Users\fic\source\repos\POO\ExerciciosPOO\bin\Debug\net9.0\ExerciciosPOO.exe
+C:\Users\fic\source\repos\POO\ExerciciosPOO\bin\Debug\net9.0\ExerciciosPOO.deps.json
+C:\Users\fic\source\repos\POO\ExerciciosPOO\bin\Debug\net9.0\ExerciciosPOO.runtimeconfig.json
+C:\Users\fic\source\repos\POO\ExerciciosPOO\bin\Debug\net9.0\ExerciciosPOO.dll
+C:\Users\fic\source\repos\POO\ExerciciosPOO\bin\Debug\net9.0\ExerciciosPOO.pdb
+C:\Users\fic\source\repos\POO\ExerciciosPOO\obj\Debug\net9.0\ExerciciosPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\source\repos\POO\ExerciciosPOO\obj\Debug\net9.0\ExerciciosPOO.AssemblyInfoInputs.cache
+C:\Users\fic\source\repos\POO\ExerciciosPOO\obj\Debug\net9.0\ExerciciosPOO.AssemblyInfo.cs
+C:\Users\fic\source\repos\POO\ExerciciosPOO\obj\Debug\net9.0\ExerciciosPOO.csproj.CoreCompileInputs.cache
+C:\Users\fic\source\repos\POO\ExerciciosPOO\obj\Debug\net9.0\ExerciciosPOO.sourcelink.json
+C:\Users\fic\source\repos\POO\ExerciciosPOO\obj\Debug\net9.0\ExerciciosPOO.dll
+C:\Users\fic\source\repos\POO\ExerciciosPOO\obj\Debug\net9.0\refint\ExerciciosPOO.dll
+C:\Users\fic\source\repos\POO\ExerciciosPOO\obj\Debug\net9.0\ExerciciosPOO.pdb
+C:\Users\fic\source\repos\POO\ExerciciosPOO\obj\Debug\net9.0\ExerciciosPOO.genruntimeconfig.cache
+C:\Users\fic\source\repos\POO\ExerciciosPOO\obj\Debug\net9.0\ref\ExerciciosPOO.dll
